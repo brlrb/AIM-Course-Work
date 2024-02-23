@@ -1,0 +1,44 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.11.7",
+    "heartbeatAt": "2024-02-23T23:03:16.019148",
+    "startedAt": "2024-02-23T23:03:10.865110",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Python RAQA Example.ipynb",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/brlrb/AIMakerspace.git",
+        "commit": "0e667479da677b17fb0639ebb69f02d150f6eff9"
+    },
+    "email": "bikramcode@gmail.com",
+    "root": "/Users/bm1212.108/Desktop/bm108.local/GITHUB/PUBLIC/AIM-Course-Work",
+    "host": "BM1212108.local",
+    "username": "bm1212.108",
+    "executable": "/opt/anaconda3/envs/bm-env/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 228.27386474609375,
+            "used": 170.62823867797852
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
